@@ -1,1 +1,1 @@
-# polls_app
+# polls_appcd djangoc
